@@ -1,6 +1,6 @@
 from springpython.config import PythonConfig, Object
 from springpython.context import scope
-from objects.test_obj import TestObject
+from .objects.test_obj import TestObject
 
 __author__ = 'david'
 
